@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Ubeyd Civelek
+### 👋 Hi, I’m Ubeyd Civelek. Graduated from Duzce University Mechatronics Engineering at 2021.
 
   
 I'm Student Of 'Ecole42'
