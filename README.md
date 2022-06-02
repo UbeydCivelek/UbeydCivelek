@@ -9,7 +9,7 @@
   
 ```python 
 🚀 I'm Student Of 'Ecole42'
-⚙️ Graduated from Duzce University Mechatronics Engineering at 2021. 
+🎓 Graduated from Duzce University Mechatronics Engineering at 2021. 
 👨‍💻 print("hello world 🖖")
 ```
 
