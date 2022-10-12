@@ -10,6 +10,7 @@
 ```python 
 🚀 I'm Student Of 'Ecole42'
 🎓 Graduated from Duzce University Mechatronics Engineering at 2021. 
+📚 Currently, I am a Master Student in the field of Mechatronics Engineering at Sakarya University Of Applied Sciences.
 👀 I’m interested in every kind of automation.
 🌱 I’m currently looking for a job as Test Automation Engineer.
 ✔️ Ask me about Python and Selenium
