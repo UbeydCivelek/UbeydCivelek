@@ -12,7 +12,7 @@
 
 🎓 Graduated from Duzce University Mechatronics Engineering at 2021. 
 
-📚 Currently, I am a Master Student in the field of Mechatronics Engineering at Sakarya University Of Applied Sciences.
+📚 Currently, I am a master student in the field of Mechatronics Engineering at Sakarya University Of Applied Sciences.
 
 👀 I’m interested in every kind of automation.
 
