@@ -1,6 +1,7 @@
 
 # 👋 Hi, I’m Ubeyd Civelek. #
 
+
   
   
   
@@ -25,5 +26,9 @@
 
 
 <img src="https://user-images.githubusercontent.com/106076072/176109416-ce17eb6c-ddc3-470b-89ea-ca63e2a76758.svg">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=UbeydCivelek&label=Profile%20views&color=0e75b6&style=flat" alt="UbeydCivelek" /> </p>
+
  
  
