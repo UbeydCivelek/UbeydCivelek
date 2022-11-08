@@ -25,7 +25,8 @@
 ![ucivelek's 42 stats](https://badge42.vercel.app/api/v2/cl3jzey0g007809l6uwenimnx/stats?cursusId=21&coalitionId=undefined)![ucivelek's 42 stats](https://badge42.vercel.app/api/v2/cl3jzey0g007809l6uwenimnx/stats?cursusId=9&coalitionId=undefined)
 
 
-<img src="https://user-images.githubusercontent.com/106076072/176109416-ce17eb6c-ddc3-470b-89ea-ca63e2a76758.svg">
+<img src="https://user-images.githubusercontent.com/106076072/200540955-d8ed7fc8-4e5a-45b5-bcf2-eee5698c6b99.svg">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UbeydCivelek&label=Profile%20views&color=0e75b6&style=flat" alt="UbeydCivelek" /> </p>
