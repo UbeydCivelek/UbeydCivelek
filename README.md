@@ -9,7 +9,7 @@
   
   
 ```python 
-🚀 I'm Student Of 'Ecole42'
+🚀 I'm Student Of 42Kocaeli
 
 🎓 Graduated from Duzce University Mechatronics Engineering at 2021. 
 
