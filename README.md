@@ -9,7 +9,7 @@
   
   
 ```python 
-🚀 I'm Student Of 42Kocaeli
+
 
 🎓 Graduated from Duzce University Mechatronics Engineering at 2021. 
 
@@ -17,7 +17,7 @@
 
 👀 I’m interested in every kind of automation.
 
-🌱 I’m currently looking for a job as Test Automation Engineer.
+🚀 I’m currently looking for a job as Test Automation Engineer.
 
 ✔️ Ask me about C, Python, Java, Appium and Selenium
 ```
