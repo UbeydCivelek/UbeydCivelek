@@ -17,9 +17,7 @@
 
 👀 I’m interested in every kind of automation.
 
-🚀 I’m currently looking for a job as Test Automation Engineer.
-
-✔️ Ask me about C, Python, Java, Appium and Selenium
+🚀 Ask me about C, Python, Java, Appium and Selenium
 ```
 
 ![ucivelek's 42 stats](https://badge42.vercel.app/api/v2/cl3jzey0g007809l6uwenimnx/stats?cursusId=21&coalitionId=undefined)![ucivelek's 42 stats](https://badge42.vercel.app/api/v2/cl3jzey0g007809l6uwenimnx/stats?cursusId=9&coalitionId=undefined)
